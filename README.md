@@ -1,4 +1,6 @@
 # github_tutorial
+![Fry2](/multimedia/fry_and_git.jpg)
+
 - [ ]  on github, fork this repository using you github user account
 - [ ]  in a shell, make a local checkout
 - [ ]  create a new local branch, and check it out
@@ -13,4 +15,3 @@
 * [Georg](http://github.com/airballking) writes ```(lisp-functions :sometimes)```
 
 ## funny pictures
-![Fry2](/multimedia/fry_and_git.jpg)
